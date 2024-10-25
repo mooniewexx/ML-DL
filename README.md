@@ -9,4 +9,5 @@
 - image_classification.ipynb - Классификация изображений
 - real_dataset_classification.ipynb - Классификация изображений из реального датасета
 
+В файле DL_portfolio_Kyzyl_ool(ipynb и py) представлены все задачи вместе.
 Также можете ознакомиться с моей курсовой по машинному обучению в pdf файле.
