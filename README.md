@@ -3,7 +3,7 @@
 
 Навигация:
 
-- text_recognition.ipynb - Распознавания текста с изображения
+- text_recognition.ipynb - Распознавание текста с изображения
 - digit_recognition.ipynb - Классификация изображений цифр
 - clothes_classification.ipynb - Классификация предметов одежды
 - image_classification.ipynb - Классификация изображений
