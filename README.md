@@ -13,5 +13,6 @@
 
 В файле DL_portfolio_Kyzyl_ool(ipynb и py) представлены все задачи вместе.
 
-Также можете ознакомиться с моей курсовой по машинному обучению в ipynb и pdf файле(https://github.com/mooniewexx/Compare-Regressions).
+Также можете ознакомиться с моей курсовой по машинному обучению в ipynb и pdf файле за 1 курс: https://github.com/mooniewexx/Compare-Regressions;
 
+за 3 курс: https://github.com/mooniewexx/AutoDialogSystem_BA_LLM.
